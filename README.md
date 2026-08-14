@@ -11,4 +11,9 @@ The agent is build using smolagents ( a library of hugging face)
 
 
 
+# How to run this
+- pip install smolagents (AI Agent framework)
+- pip install ddgs (Search Tool)
+
+
 * Inspired by the official **Hugging Face AI Agents** tutorial.
