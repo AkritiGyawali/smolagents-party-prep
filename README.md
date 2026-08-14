@@ -1,4 +1,4 @@
-# Alferf-party planner agent
+# Alferd-party planner agent
 The agent is build using smolagents ( a library of hugging face)
 
 
@@ -12,8 +12,14 @@ The agent is build using smolagents ( a library of hugging face)
 
 
 # How to run this
-- pip install smolagents (AI Agent framework)
-- pip install ddgs (Search Tool)
+```bash
+ pip install smolagents ``` (AI Agent framework)
+``` bash pip install ddgs (Search Tool)``` <br><br><br>
 
 
-* Inspired by the official **Hugging Face AI Agents** tutorial.
+
+
+
+
+
+<small> Inspired by the official *Hugging Face AI Agents* tutorial.</small>
