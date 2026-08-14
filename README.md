@@ -13,8 +13,15 @@ The agent is build using smolagents ( a library of hugging face)
 
 # How to run this
 ```bash
- pip install smolagents ``` (AI Agent framework)
-``` bash pip install ddgs (Search Tool)``` <br><br><br>
+ pip install smolagents
+```
+AI Agent Framework
+
+```bash
+pip install ddgs
+```
+Search Tool
+ <br><br><br>
 
 
 
